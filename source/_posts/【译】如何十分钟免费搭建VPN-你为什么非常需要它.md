@@ -1,7 +1,7 @@
 ---
 title: 【译】如何十分钟免费搭建VPN(你为什么非常需要它)
 date: 2017-10-19 19:42:53
-tags:
+tags: 翻译
 ---
 
 > 原文：http://www.zcfy.cc/article/4254
@@ -17,7 +17,7 @@ tags:
 “摄影师与花” by Banksy. Stencil 2010年
 > “A computer lets you make more mistakes faster than any other invention with the possible exceptions of handguns and Tequila.” — Mitch Ratcliffe
 > “除了手枪与龙舌兰酒，计算机可能是让你更容易犯错的发明。” - 米奇·拉特克利夫
-
+<!--more-->
 你在互联网上所犯的错误很快将不仅仅被你的网络服务供应商(ISP)所知 - 也将会被任何想要知道这些错误的公司或者外国政府所知
 
 这样的结果得感谢国会的决定。在不经过你的允许下，网络供应商们可以贩卖你整个网络浏览记录给任何人。有限的保护你的隐私不被他人所知的法律将会被废除，并且不会再被启用(国会将采取行动)

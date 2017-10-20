@@ -1,8 +1,10 @@
 ---
 title: JS高程 第二章 在HTML中使用JS
 date: 2017-10-19 22:08:43
-tags: 读书笔记
+tags: [读书笔记, JavaScript高级程序设计]
 ---
+> 在HTML中使用JavaScript是一件很简单的事情，但是，经常写前端的小伙伴们，你们真的没有想过为什么要这么写么？
+<!--more-->
 ## &lt;script&gt; 标签
 
 向HTML页面插入JavaScript元素的主要方法就是使用&lt;script&gt;标签，这个元素也是Netscape公司创造，后来被正式加入到HTML规范，注意这是HTML规范，而不是js的。
