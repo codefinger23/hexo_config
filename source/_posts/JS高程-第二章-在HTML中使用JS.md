@@ -38,7 +38,7 @@ javascript解释器是从上到下依次解释，需要注意的是如果想要�
 ## 文档模式
 
 文档模式一般是影响CSS页面渲染效果，但是有些情况下也会影响javascript的执行。主要有两种文档模式：混杂模式和标准模式。使用标准模式声明，则必须对应标准的javascript代码，一些不符合声明标准的特性则不可以使用，比如java8和java7的区别。如果文档开始没有进行模式声明，则默认采用混杂模式，这部分内容比较难以呈现，采用截图来作为参考。
-![alt](https://codefinger.cn:444/static/upload/20171013/tLPIDuCEg3UKzx9mn8dQsQ89.png)
+![](https://codefinger.cn/wp-content/uploads/2017/10/Screen-Shot-2017-10-30-at-14.28.57.png)
 ## &lt;noscript&gt; 标签
 
 &lt;noscript&gt; 主要是为了在不能运行javascript代码时进行的页面降级，&lt;noscript&gt;中的元素只会在两种情况下呈现：

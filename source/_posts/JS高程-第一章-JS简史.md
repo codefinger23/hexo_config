@@ -22,7 +22,7 @@ ECMAScipt 即常说的ES语法规范，讲的就是JavaScript应该遵循既实�
 
 ## 实现
 
-![alt](https://codefinger.cn:444/static/upload/20171012/513DXLqIfALKp4XRevwMEfl4.png)
+![](https://codefinger.cn/wp-content/uploads/2017/10/Screen-Shot-2017-10-30-at-14.23.10.png)
 
 JavaScript由上图三个不同的部分组成
 - 核心（ECMAScript）

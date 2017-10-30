@@ -106,8 +106,8 @@ location对象的查询字符串参数提供的是一整个查询字符串，而
 
 navigtor是用来识别客户端的对象，每个浏览器都有自己的navigtor属性，但是有些是共有的属性，如下图所示，列出了存在于浏览器的共有方法和属性及支持它们的浏览器版本。
 
-![](https://codefinger.cn:444/wp-content/uploads/2017/10/Screen-Shot-2017-10-29-at-22.19.11.png)
-![](https://codefinger.cn:444/wp-content/uploads/2017/10/Screen-Shot-2017-10-29-at-22.19.24.png)
+![](https://codefinger.cn/wp-content/uploads/2017/10/Screen-Shot-2017-10-29-at-22.19.11.png)
+![](https://codefinger.cn/wp-content/uploads/2017/10/Screen-Shot-2017-10-29-at-22.19.24.png)
 
 ### 检测插件
 
