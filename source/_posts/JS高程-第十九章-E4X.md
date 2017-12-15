@@ -4,6 +4,7 @@ date: 2017-11-09 22:18:01
 tags: [读书笔记, JavaScript高级程序设计]
 ---
 > 在以BEA Systems为首的几家公司建议下，为ECMAScript添加一项扩张，增加原生的的XML支持。2004年6月，E4X(ECMAScript for XML) 以ECMA-357标准的形式发布。E4X本身不是一门语言，它只是ECMAScript语言的可选扩展。就其本身而言，E4X为处理XML定义了新的语法，也定义了特定于XML的对象。
+
 <!--more-->
 
 ## E4X的类型

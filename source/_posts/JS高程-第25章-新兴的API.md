@@ -5,6 +5,8 @@ tags: [读书笔记, JavaScript高级程序设计]
 ---
 > 随着HTML5的出现，面向未来Web应用的JavaScript API也得到了极大的发展。这些API没有包含在HTML5规范中，而是各自有各自的规范。但是，他们都属于“HTML5相关的API”。
 
+<!--more-->
+
 ## requestAnimationFrame
 
 很长时间以来，计时器和循环间隔一直都是JavaScript动画的最核心技术。虽然CSS变换及动画为Web开发人员提供了实现动画的简单手段，但JavaScript动画开发领域的状况这些年来并没有大的变化。

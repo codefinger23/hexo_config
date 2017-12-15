@@ -4,6 +4,7 @@ date: 2017-11-10 22:24:50
 tags: [读书笔记, JavaScript高级程序设计]
 ---
 > 曾经一段时间，XML风靡一时，成为了互联网结构化数据传输的标准。Web服务的第一次浪潮很大程度上都是建立在XML之上，突出的特点是服务器与服务器通信。然而，业界一直不乏质疑XML的声音。不少人认为XML过于繁琐，冗长。为了解决这个问题，出现了JSON(JavaScript Object Notation, JavaScript对象表示法)，从2001年就开始了JSON的应用，它是JavaScript的一个严格的子集，利用JavaScript中的一些模式来表示结构化数据。因为可以把JSON直接传给eval()，而且不必创建DOM对象。关于JSON，最重要的是理解它是一种数据格式，不是一种编程语言。虽然具有相同的语法形式，但JSON并不从属于JavaScript。
+
 <!--more-->
 
 ## 语法
