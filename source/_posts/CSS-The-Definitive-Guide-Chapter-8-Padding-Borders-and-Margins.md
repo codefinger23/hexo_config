@@ -1,7 +1,7 @@
 ---
 title: 'CSS: The Definitive Guide-Chapter 8-Padding, Borders, and Margins'
 date: 2017-12-15 21:54:18
-tags:
+tags: [读书笔记, 'CSS: The Definitive Guide']
 ---
 > These borders can set an element apart from others, accentuate its appearance, mark certain keinds of data as having been changed, or any number of other things.
 

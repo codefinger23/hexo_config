@@ -5,6 +5,8 @@ tags: [读书笔记, 'CSS: The Definitive Guide']
 ---
 > Because text is so important, there are many CSS properties that affect it in one way or another. 
 
+<!--more-->
+
 ## Indentation and Horizontal Alignment
 
 ### Indenting Text
